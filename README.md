@@ -1,5 +1,5 @@
 # <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="speech bubble" width="28"> Descrição
-O projeto visa a criação de uma sala de conversa privada mediante acesso a determinada url medianrte a linguagem de programação Python.
+O projeto visa a criação de uma sala de conversa privada mediante acesso a determinada url através da linguagem de programação Python.
 
 # Chat
 ![image](https://github.com/user-attachments/assets/63dc8065-2ca2-4684-b0a3-00de4d4cf4b4)
